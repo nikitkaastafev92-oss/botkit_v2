@@ -1,0 +1,19 @@
+{
+  "bot_token": "ВАШ_ТОКЕН_ОТ_BOTFATHER",
+  "products": {
+    "course_python": {
+      "name": "Курс Python для начинающих",
+      "price": 990,
+      "description": "PDF + 10 видеоуроков",
+      "type": "file",
+      "content": "files/course_python.zip"
+    },
+    "template_figma": {
+      "name": "Figma UI Kit для стартапов",
+      "price": 490,
+      "description": "Готовый шаблон для дизайнеров",
+      "type": "link",
+      "content": "https://drive.google.com/file/d/XXX"
+    }
+  }
+}
